@@ -1,2 +1,2 @@
 # Note
-I have decided not to release the web scraping code publicly. Web scraping operates in a legal gray area, and the primary purpose of this project was to utilize AWS Fargate services, not potentially engage in unlawful activities.
+I have decided not to release the web scraping code publicly.
